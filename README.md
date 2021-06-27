@@ -6,4 +6,4 @@ This repository contains Scrapy (python) script That Scraps images of the crimin
 - Scrapy
 
 # Instructions
-- Run the above python file in python compiler 
+- Run the above python file mugshots.py in python compiler 
